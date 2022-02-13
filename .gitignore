@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+vivado_prj
+/keras-to-hls/lenet5-proj/lenet5_prj
